@@ -48,7 +48,7 @@ Two Random Forest models were trained:
 
 ### 1️⃣ Baseline Random Forest  
 - `n_estimators = 200`  
-- Accuracy: **0.804**
+- Accuracy: **0.8109**
 
 ---
 
@@ -59,8 +59,7 @@ min_samples_leaf = 2
 min_samples_split = 2
 n_estimators = 100
 
-- Cross-validation score: **0.8345**  
-- Final Accuracy: **0.799**  
+- Final Accuracy: **0.8324**  
 - Selected as the **final model**
 
 ---
